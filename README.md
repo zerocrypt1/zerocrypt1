@@ -1,5 +1,5 @@
 # Shivansh Mishra
-### **Founder & Tech Lead at GLOCYBS & Vidyazon**
+### **Founder & Tech Lead at GLOCYBS **
 **Architect of BIQUA, GFLEA & QUBISA | Quantum + AI Innovator | Rust, Go, Python | AI/ML**
 
 I am a deep-tech architect focused on building the intersection of **Quantum-enhanced algorithms, AI-driven automation, and secure distributed architectures**. I lead multi-disciplinary teams to create future-proof digital infrastructure.
