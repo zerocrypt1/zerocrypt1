@@ -1,4 +1,4 @@
-# 🚀 Shivansh Mishra
+# Shivansh Mishra
 ### **Founder & Director, Glocybs**
 **Quantum Computing | Cybersecurity | AI/ML | Cloud Architect**
 
