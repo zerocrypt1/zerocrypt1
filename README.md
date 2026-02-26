@@ -1,15 +1,27 @@
 # Shivansh Mishra
-### **Founder & Tech Lead at Glocybs & Vidyazon**
+### **Founder & Tech Lead at GLOCYBS & Vidyazon**
 **Architect of BIQUA, GFLEA & QUBISA | Quantum + AI Innovator | Rust, Go, Python | AI/ML**
 
 I am a deep-tech architect focused on building the intersection of **Quantum-enhanced algorithms, AI-driven automation, and secure distributed architectures**. I lead multi-disciplinary teams to create future-proof digital infrastructure.
 
 ---
 
-# 🏢 The Glocybs Ecosystem (Deep-Tech & Cyber)
-**[Glocybs](https://www.glocybs.com/)** is my primary organization, serving as a specialized hub for Quantum Computing and Cybersecurity innovation.
+# 🏢 THE GLOCYBS ECOSYSTEM (Deep-Tech & Cyber)
 
-### 🛡️ [BIQUA](https://www.glocybs.com/biqua) — The 5-Pillar Security Architecture
+**GLOCYBS** is my primary organization, serving as a specialized hub for Quantum Computing and Cybersecurity innovation.
+
+### 📊 Project Portfolio at a Glance
+
+| Initiative | Type | Focus Area | Status |
+| :--- | :--- | :--- | :--- |
+| **🛡️ BIQUA** | Security Architecture | Blockchain + AI + Quantum + Cyber | **Live** |
+| **🤖 QUBISA** | Quantum-AI System | Autonomous Enterprise Security | **Live** |
+| **🦂 G-FLEA** | Swarm Mobility | Attacker & Respondent Infrastructure | **In Dev** |
+| **⚛️ G-QBS Lab** | Research Facility | Quantum Algorithms & Cryptography | **Active** |
+
+---
+
+## 🛡️ [BIQUA](https://www.glocybs.com/biqua) — The 5-Pillar Security Architecture
 A revolutionary blend of technologies working together to create the ultimate cybersecurity platform:
 * **[B]lockchain:** Immutable security logs with a quantum-secure consensus layer.
 * **[I]nnovation:** Proactive threat hunting and 3D network visualization.
@@ -17,21 +29,19 @@ A revolutionary blend of technologies working together to create the ultimate cy
 * **[U]nified:** A seamless command center integrating all security domains.
 * **[A]I:** Predictive analytics and automated incident response models.
 
-### 🤖 [QUBISA](https://www.glocybs.com/qubisa) — Quantum-Enhanced AI
-A paradigm shift in enterprise security. QUBISA integrates quantum computing principles with advanced machine learning to anticipate and neutralize AI-driven attacks before they manifest.
+## 🤖 [QUBISA](https://www.glocybs.com/qubisa) — Quantum-Enhanced AI
+A paradigm shift in enterprise security. Developed by **GLOCYBS**, QUBISA integrates quantum computing principles with advanced machine learning to anticipate and neutralize AI-driven attacks before they manifest.
 
-### 🦂 [G-FLEA](https://www.glocybs.com/quantumcomputing) — Swarm Mobility
+## 🦂 [G-FLEA](https://www.glocybs.com/quantumcomputing) — Swarm Mobility
 Inspired by biological swarm intelligence, G-FLEA is an upcoming mobility infrastructure that functions as both an attacker (proactive testing) and respondent (reactive optimization).
 
-### ⚛️ [G-QBS Lab](https://gqbs.glocybs.com/)
+## ⚛️ [G-QBS Lab](https://gqbs.glocybs.com/)
 Our dedicated research facility focused on refining Quantum Search algorithms, optimizing amplitude amplification, and post-quantum cryptography.
 
 ---
 
 # 📚 [Vidyazon](https://www.vidyazon.com/) — Standalone Ed-Tech
-A separate, high-scale digital education and management platform.
-* **Architecture:** Built on a secure Golang backend and React.js frontend.
-* **Security:** Features protected route architectures and OTP-based verification systems.
+A separate, high-scale digital education and management platform built on a secure Golang backend and React.js frontend.
 
 ---
 
@@ -43,7 +53,6 @@ A separate, high-scale digital education and management platform.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### ☁️ AWS Cloud Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -56,13 +65,13 @@ A separate, high-scale digital education and management platform.
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Connect With the Founder
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shivansh-ninja/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shivansh@glocybs.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://medium.com/@shivanshm442"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-  <a href="https://shivansh.glocybs.co.in/"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://shivansh.glocybs.co.in/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
