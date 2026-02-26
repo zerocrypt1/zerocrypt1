@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shivansh Mishra
+# Hi  I'm Shivansh Mishra
 
 🚀 Founder & Director at Glocybs  
 🛡 Ethical Hacker | Cybersecurity Researcher  
