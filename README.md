@@ -1,6 +1,6 @@
 # Hi  I'm Shivansh Mishra
 
-🚀 Founder & Director at Glocybs  
+ Founder & Director at Glocybs  
 🛡 Ethical Hacker | Cybersecurity Researcher  
 ⚛ Quantum Computing Innovator  
 🤖 AI/ML Engineer  
@@ -66,7 +66,7 @@ BIQUA combines AI + Quantum + Blockchain into a unified security model.
 
 ---
 
-## 🚗 GFLEA
+##  GFLEA
 
 An intelligent fleet & mobility infrastructure platform featuring:
 
