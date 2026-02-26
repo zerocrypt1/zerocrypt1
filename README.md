@@ -24,7 +24,7 @@ My focus is on building secure, high-performance and future-ready technology eco
 
 # 🏢 Organizations & Platforms
 
-## 🚀 Glocybs
+## Glocybs
 
 Founder & Director of Glocybs — a deep-tech company focused on:
 
@@ -66,7 +66,7 @@ BIQUA combines AI + Quantum + Blockchain into a unified security model.
 
 ---
 
-## 🚗 GFLEAT
+## 🚗 GFLEA
 
 An intelligent fleet & mobility infrastructure platform featuring:
 
